@@ -1,0 +1,3 @@
+C:\Users\Юра Кузин\source\repos\Floppy1\Floppy1\Debug\Floppy1.vcxprojAssemblyReference.cache
+C:\Users\Юра Кузин\source\repos\Floppy1\Floppy1\Debug\Floppy1.Form1.resources
+C:\Users\Юра Кузин\source\repos\Floppy1\Floppy1\Debug\Floppy1.vcxproj.GenerateResource.cache
