@@ -28,5 +28,16 @@ public:
 		spriteSize = 30;
 		fallingSpeed = 0.1f;
 	}
+public:
+	void fall(float gravity)
+	{
+		fallingSpeed += gravity;
+		y += fallingSpeed;
+	}
+public:
+	void jump()
+	{
+		fallingSpeed = -7;
+	}
 
 };
